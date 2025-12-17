@@ -1,4 +1,4 @@
-# DIY-Sim-Racing-GT-Steering-Wheel
+# DIY Sim racing GT Steering Wheel
 
 NOTE: This wheel project is still in concept status. All the ideas haven’t been tested. If you would like to make something similar, please take that in consideration!
 
